@@ -1,0 +1,499 @@
+{
+  "checkpoints": [
+    {
+      "location": {
+        "latitude": 13.8,
+        "longitude": 159.5
+      },
+      "wind": {
+        "category": 5,
+        "speed": 24.834,
+        "radius": [15, 0, 0, 0]
+      }
+    },
+    {
+      "location": {
+        "latitude": 14.4,
+        "longitude": 158.8
+      },
+      "wind": {
+        "category": 5,
+        "speed": 28.943,
+        "radius": [15, 50, 40, 40]
+      }
+    },
+    {
+      "location": {
+        "latitude": 15.5,
+        "longitude": 157.8
+      },
+      "wind": {
+        "category": 5,
+        "speed": 33.448,
+        "radius": [15, 50, 40, 40]
+      }
+    },
+    {
+      "location": {
+        "latitude": 16,
+        "longitude": 156.6
+      },
+      "wind": {
+        "category": 5,
+        "speed": 37.247,
+        "radius": [15, 60, 50, 50]
+      }
+    },
+    {
+      "location": {
+        "latitude": 16.2,
+        "longitude": 156.1
+      },
+      "wind": {
+        "category": 5,
+        "speed": 37.247,
+        "radius": [15, 60, 50, 50]
+      }
+    },
+    {
+      "location": {
+        "latitude": 15.9,
+        "longitude": 155.3
+      },
+      "wind": {
+        "category": 5,
+        "speed": 37.247,
+        "radius": [15, 50, 40, 40]
+      }
+    },
+    {
+      "location": {
+        "latitude": 15.8,
+        "longitude": 154.6
+      },
+      "wind": {
+        "category": 5,
+        "speed": 37.247,
+        "radius": [15, 50, 40, 40]
+      }
+    },
+    {
+      "location": {
+        "latitude": 15.2,
+        "longitude": 153.9
+      },
+      "wind": {
+        "category": 5,
+        "speed": 33.448,
+        "radius": [15, 40, 40, 40]
+      }
+    },
+    {
+      "location": {
+        "latitude": 15.1,
+        "longitude": 152.7
+      },
+      "wind": {
+        "category": 5,
+        "speed": 28.943,
+        "radius": [15, 35, 35, 35]
+      }
+    },
+    {
+      "location": {
+        "latitude": 14.2,
+        "longitude": 152.3
+      },
+      "wind": {
+        "category": 5,
+        "speed": 28.943,
+        "radius": [15, 40, 40, 40]
+      }
+    },
+    {
+      "location": {
+        "latitude": 14,
+        "longitude": 152.2
+      },
+      "wind": {
+        "category": 5,
+        "speed": 33.448,
+        "radius": [15, 35, 35, 35]
+      }
+    },
+    {
+      "location": {
+        "latitude": 14,
+        "longitude": 151
+      },
+      "wind": {
+        "category": 5,
+        "speed": 33.448,
+        "radius": [15, 60, 50, 50]
+      }
+    },
+    {
+      "location": {
+        "latitude": 14.1,
+        "longitude": 149.2
+      },
+      "wind": {
+        "category": 5,
+        "speed": 33.448,
+        "radius": [15, 60, 50, 50]
+      }
+    },
+    {
+      "location": {
+        "latitude": 14.1,
+        "longitude": 147.6
+      },
+      "wind": {
+        "category": 5,
+        "speed": 33.448,
+        "radius": [15, 75, 45, 45]
+      }
+    },
+    {
+      "location": {
+        "latitude": 14,
+        "longitude": 146.3
+      },
+      "wind": {
+        "category": 5,
+        "speed": 37.247,
+        "radius": [15, 75, 45, 45]
+      }
+    },
+    {
+      "location": {
+        "latitude": 13,
+        "longitude": 145
+      },
+      "wind": {
+        "category": 5,
+        "speed": 37.247,
+        "radius": [15, 75, 60, 45]
+      }
+    },
+    {
+      "location": {
+        "latitude": 12.6,
+        "longitude": 143.4
+      },
+      "wind": {
+        "category": 5,
+        "speed": 37.247,
+        "radius": [15, 80, 60, 45]
+      }
+    },
+    {
+      "location": {
+        "latitude": 12.3,
+        "longitude": 142.6
+      },
+      "wind": {
+        "category": 5,
+        "speed": 28.943,
+        "radius": [15, 80, 60, 55]
+      }
+    },
+    {
+      "location": {
+        "latitude": 11.9,
+        "longitude": 141.2
+      },
+      "wind": {
+        "category": 5,
+        "speed": 28.943,
+        "radius": [15, 125, 80, 80]
+      }
+    },
+    {
+      "location": {
+        "latitude": 11.6,
+        "longitude": 139.5
+      },
+      "wind": {
+        "category": 5,
+        "speed": 33.448,
+        "radius": [15, 125, 80, 80]
+      }
+    },
+    {
+      "location": {
+        "latitude": 11.2,
+        "longitude": 137.8
+      },
+      "wind": {
+        "category": 5,
+        "speed": 37.247,
+        "radius": [15, 105, 105, 70]
+      }
+    },
+    {
+      "location": {
+        "latitude": 10.6,
+        "longitude": 136.6
+      },
+      "wind": {
+        "category": 5,
+        "speed": 41.745,
+        "radius": [15, 80, 80, 80]
+      }
+    },
+    {
+      "location": {
+        "latitude": 10.6,
+        "longitude": 135
+      },
+      "wind": {
+        "category": 5,
+        "speed": 45.517,
+        "radius": [15, 80, 80, 80]
+      }
+    },
+    {
+      "location": {
+        "latitude": 10.4,
+        "longitude": 133.6
+      },
+      "wind": {
+        "category": 5,
+        "speed": 49.710,
+        "radius": [15, 80, 80, 65]
+      }
+    },
+    {
+      "location": {
+        "latitude": 10.5,
+        "longitude": 132
+      },
+      "wind": {
+        "category": 5,
+        "speed": 74.043,
+        "radius": [15, 90, 75, 75]
+      }
+    },
+    {
+      "location": {
+        "latitude": 10.9,
+        "longitude": 130.4
+      },
+      "wind": {
+        "category": 5,
+        "speed": 74.043,
+        "radius": [15, 100, 85, 85]
+      }
+    },
+    {
+      "location": {
+        "latitude": 11.5,
+        "longitude": 129
+      },
+      "wind": {
+        "category": 5,
+        "speed": 82.875,
+        "radius": [15, 140, 110, 110]
+      }
+    },
+    {
+      "location": {
+        "latitude": 12,
+        "longitude": 127.8
+      },
+      "wind": {
+        "category": 5,
+        "speed": 91.447,
+        "radius": [15, 110, 80, 80]
+      }
+    },
+    {
+      "location": {
+        "latitude": 12.5,
+        "longitude": 126.7
+      },
+      "wind": {
+        "category": 5,
+        "speed": 107.768,
+        "radius": [15, 140, 120, 120]
+      }
+    },
+    {
+      "location": {
+        "latitude": 13.2,
+        "longitude": 125.6
+      },
+      "wind": {
+        "category": 5,
+        "speed": 115.919,
+        "radius": [15, 130, 120, 125]
+      }
+    },
+    {
+      "location": {
+        "latitude": 13.9,
+        "longitude": 124.5
+      },
+      "wind": {
+        "category": 5,
+        "speed": 115.919,
+        "radius": [15, 130, 120, 120]
+      }
+    },
+    {
+      "location": {
+        "latitude": 14.3,
+        "longitude": 123.8
+      },
+      "wind": {
+        "category": 5,
+        "speed": 99.364,
+        "radius": [15, 130, 120, 100]
+      }
+    },
+    {
+      "location": {
+        "latitude": 15,
+        "longitude": 122.9
+      },
+      "wind": {
+        "category": 5,
+        "speed": 99.364,
+        "radius": [15, 130, 120, 100]
+      }
+    },
+    {
+      "location": {
+        "latitude": 15.8,
+        "longitude": 121.9
+      },
+      "wind": {
+        "category": 5,
+        "speed": 107.768,
+        "radius": [15, 115, 110, 95]
+      }
+    },
+    {
+      "location": {
+        "latitude": 16.6,
+        "longitude": 120.7
+      },
+      "wind": {
+        "category": 5,
+        "speed": 74.043,
+        "radius": [15, 110, 90, 90]
+      }
+    },
+    {
+      "location": {
+        "latitude": 17.7,
+        "longitude": 119.4
+      },
+      "wind": {
+        "category": 5,
+        "speed": 62.096,
+        "radius": [15, 140, 130, 130]
+      }
+    },
+    {
+      "location": {
+        "latitude": 18,
+        "longitude": 118.1
+      },
+      "wind": {
+        "category": 5,
+        "speed": 61.728,
+        "radius": [15, 200, 170, 170]
+      }
+    },
+    {
+      "location": {
+        "latitude": 18.4,
+        "longitude": 116.8
+      },
+      "wind": {
+        "category": 5,
+        "speed": 52.348,
+        "radius": [15, 200, 170, 170]
+      }
+    },
+    {
+      "location": {
+        "latitude": 18.6,
+        "longitude": 115.9
+      },
+      "wind": {
+        "category": 5,
+        "speed": 52.348,
+        "radius": [15, 240, 200, 200]
+      }
+    },
+    {
+      "location": {
+        "latitude": 18.5,
+        "longitude": 115.2
+      },
+      "wind": {
+        "category": 5,
+        "speed": 47.627,
+        "radius": [15, 215, 175, 175]
+      }
+    },
+    {
+      "location": {
+        "latitude": 18.5,
+        "longitude": 114
+      },
+      "wind": {
+        "category": 5,
+        "speed": 33.448,
+        "radius": [15, 190, 145, 145]
+      }
+    },
+    {
+      "location": {
+        "latitude": 18.8,
+        "longitude": 113
+      },
+      "wind": {
+        "category": 5,
+        "speed": 24.834,
+        "radius": [15, 0, 0, 0]
+      }
+    },
+    {
+      "location": {
+        "latitude": 18.1,
+        "longitude": 112.1
+      },
+      "wind": {
+        "category": 5,
+        "speed": 20.748,
+        "radius": [15, 0, 0, 0]
+      }
+    },
+    {
+      "location": {
+        "latitude": 17.1,
+        "longitude": 110.4
+      },
+      "wind": {
+        "category": 5,
+        "speed": 16.287,
+        "radius": [15, 0, 0, 0]
+      }
+    },
+    {
+      "location": {
+        "latitude": 16.6,
+        "longitude": 109
+      },
+      "wind": {
+        "category": 5,
+        "speed": 12.408,
+        "radius": [15, 0, 0, 0]
+      }
+    }
+  ]
+}
